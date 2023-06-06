@@ -2,20 +2,7 @@
 a mini docker container running php which supports simulation of questions from a json file in cli with real time correct/wrong answer prompt
 
 ### Folder Structure
-```bash
-$ tree
-.
-├── Dockerfile
-├── exam
-├── Flashcards
-│   ├── Exam
-│   │   ├── ScoreKeep.php
-│   │   └── Timer.php
-│   └── Exam.php
-├── autoload.php
-├── questions.json
-└── README.md
-```
+![](tree.png)
 2 directories, 8 files
 
 ## Build
