@@ -12,7 +12,7 @@ $ tree
 │   │   ├── ScoreKeep.php
 │   │   └── Timer.php
 │   └── Exam.php
-├── load.php
+├── autoload.php
 ├── questions.json
 └── README.md
 ```
