@@ -1,7 +1,10 @@
-<div style="display:block;text-align:left"><img align="left" src="https://www.crest-approved.org/wp-content/uploads/2022/04/Crest-logo-Refresh_2022_CMYK_2_AW_col-no-reg-TM-scaled.jpg" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://www.crest-approved.org/wp-content/uploads/2022/04/Crest-logo-Refresh_2022_CMYK_2_AW_col-no-reg-TM-scaled.jpg" border="0" style="width:256px;">
+  
 # CREST-CPSA-Terminal-Based-Practice-Question-Prep
+  
 a mini php application running docker container which supports simulation of questions from a json file in cli with real time correct/wrong answer prompt
 
+  
 
 ### Folder Structure
 ![](tree.png)
