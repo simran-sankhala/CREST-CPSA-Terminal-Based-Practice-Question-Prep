@@ -22,11 +22,15 @@ $ tree
 ```bash
 $ docker build -t crest-cpsa-exam .
 ```
+![](build.png)
 
 ## Run & Deploy
 ```
 $ docker run --rm -ti crest-cpsa-exam
 ```
+
+## yay it works !! 🥳
+[](poc.png)
 
 ## Modify Exam question count
 
