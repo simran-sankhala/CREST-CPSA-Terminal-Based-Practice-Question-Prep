@@ -30,7 +30,8 @@ $ docker run --rm -ti crest-cpsa-exam
 ```
 
 ## yay it works !! 🥳
-[](poc.png)
+
+![](poc.png)
 
 ## Modify Exam question count
 
